@@ -1,0 +1,10 @@
+node_modules/
+out/
+__pycache__/
+*.pyc
+.env
+.env.*
+credentials*
+*keypair*.json
+.DS_Store
+_discarded/
